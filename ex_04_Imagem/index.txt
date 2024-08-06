@@ -1,1 +1,13 @@
-<a href="https://t.ctcdn.com.br/"><img src="https://i.pinimg.com/564x/9b/2e/17/9b2e17316589971e2eb6f5efbf92adae.jpg"></a>
+<!DOCTYPE html>
+<html> 
+	<head>
+		<title>Inserindo imagem</title> 
+	</head>
+	<body>
+		<p>Inserir imagem local: </p>
+		<img src="NANA.png" alt="Nana Osaki"
+
+		<p>Inserir imagem via link: </p>
+		<img src="" alt="">
+	</body>
+</html>
